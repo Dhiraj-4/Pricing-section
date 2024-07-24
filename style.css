@@ -14,7 +14,7 @@ body{
 }
 .card{
     height: 43vh;
-    width: 21vw;
+    width: max(300px,22vh);
     display: flex;
     flex-direction: column;
     justify-content: end;
